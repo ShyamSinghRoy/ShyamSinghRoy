@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Student Intern interested in fields such as Artificial Intelligence and Machine Learning.<br>I'm a team player and mostly i like to take initiative to any group projects or any other social activities.<br>I love to interact with new people while discussing about a topic in order to ensure my capability of understanding it wisely.
+ I'm a Student Intern interested in fields such as Artificial Intelligence and Machine Learning.<br> I'm a team player and mostly i like to take initiative to any group projects or any other social activities.<br> I love to interact with new people while discussing about a topic in order to ensure my capability of understanding it wisely.
 
 
 ## 🌐 Socials:
@@ -15,10 +15,8 @@ I'm a Student Intern interested in fields such as Artificial Intelligence and Ma
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShyamSinghRoy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Shyam_Singh_Roy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Fav Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
