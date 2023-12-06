@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Student Intern interested in fields such as Artificial Intelligence and Machine Learning.<br>I'm a Team Player and mostly i like to take initiative for any group projects.<br>In addition to that i impose leadership qualities to work together for a common goal in sustainable time.<br>I love to Interact with new people while discussing about the topic in order to ensure my capability of understanding it wisely.
+I'm a Student Intern interested in fields such as Artificial Intelligence, Machine Learning and Data Science.<br>I'm a Team Player and mostly i like to take initiative for any group projects.<br>In addition to that i impose leadership qualities to work together for a common goal in sustainable time.<br>I love to Interact with new people while discussing about the topic in order to ensure my capability of understanding it wisely.
 
 
 ## 🌐 Socials:
